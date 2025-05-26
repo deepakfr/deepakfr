@@ -2,7 +2,8 @@
                   Je Suis Deepakraj DHANARAJ👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Ingénieur+IA+%7C+Passionné+par+l'analyse+et+l'automatisation;Toujours+en+quête+d'apprentissage+et+d'impact+!&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= 
+ Data+Scientist+%7C+Ingénieur+IA+%7C+Passionné+par+l'analyse+et+l'automatisation;Toujours+en+quête+d'apprentissage+et+d'impact+!&center=true&width=800&height=45">
 </p>
 
 <p align="center">

@@ -14,12 +14,12 @@
 
 ## 🌍 About Me | À propos de moi
 
-**🇬🇧 English**  
+**English**  
 I’m a passionate **Data Scientist** currently pursuing a Master's degree in **Data Science & Analytics at EPITA – Paris**.  
 With 4+ years of experience as a Data Analyst at **Zomato**, I specialize in **machine learning, generative AI, NLP**, and **cloud-based data pipelines**.  
 I love building intelligent solutions that generate value through automation and insight.
 
-**🇫🇷 Français**  
+**Français**  
 Je suis **Data Scientist**, actuellement en Master Data Science & Analytics à **EPITA – Paris**.  
 Avec plus de 4 ans d'expérience comme Data Analyst chez **Zomato**, je me spécialise en **machine learning**, **IA générative**, **traitement du langage naturel (NLP)** et **pipelines de données cloud**.  
 J’aime créer des solutions intelligentes à fort impact.
@@ -41,7 +41,7 @@ J’aime créer des solutions intelligentes à fort impact.
 
 ## 💼 Highlight Projects | Projets en vedette
 
-### 🇬🇧 English
+### English
 
 - **AI Food Recommendation System** – Collaborative + Deep Learning model  
 - **Stock Forecasting** – ARIMA & LSTM for stock price prediction  
@@ -49,7 +49,7 @@ J’aime créer des solutions intelligentes à fort impact.
 - **Zomato Review Sentiment Analysis** – NLP pipeline for user feedback  
 - **PDF Chatbot using RAG** – Retrieval-Augmented Generation for document search
 
-### 🇫🇷 Français
+### Français
 
 - **Système de recommandation alimentaire** – Modèle hybride avec deep learning  
 - **Prévision des prix boursiers** – Modèles ARIMA & LSTM  

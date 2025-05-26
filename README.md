@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Deepakraj Dhanaraj | Bonjour, je suis Deepakraj Dhanaraj</h1>
+<h1 align="center">Hi there, I'm Deepakraj Dhanaraj 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+AI+Engineer+%7C+Cloud+ETL+Architect;Always+Learning+and+Building+Impactful+Solutions!&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+AI+Engineer+%7C+Cloud+ETL+Builder;Passionate+about+ML%2C+AI%2C+and+Data+Pipelines;Always+Learning+%F0%9F%93%9A&center=true&width=800&height=45">
 </p>
 
 <p align="center">
@@ -12,52 +12,50 @@
 
 ---
 
-## 🌍 About Me | À propos de moi
+## 🚀 About Me
 
-**English**  
-I’m a passionate **Data Scientist** currently pursuing a Master's degree in **Data Science & Analytics at EPITA – Paris**.  
-With 4+ years of experience as a Data Analyst at **Zomato**, I specialize in **machine learning, generative AI, NLP**, and **cloud-based data pipelines**.  
-I love building intelligent solutions that generate value through automation and insight.
-
-**Français**  
-Je suis **Data Scientist**, actuellement en Master Data Science & Analytics à **EPITA – Paris**.  
-Avec plus de 4 ans d'expérience comme Data Analyst chez **Zomato**, je me spécialise en **machine learning**, **IA générative**, **traitement du langage naturel (NLP)** et **pipelines de données cloud**.  
-J’aime créer des solutions intelligentes à fort impact.
+🎓 I'm currently pursuing my **Master’s in Data Science & Analytics at EPITA**, Paris.  
+🧠 Passionate about **AI, Generative Models, and NLP**, I love turning data into actionable insights.  
+🌍 Previously worked at **Zomato** where I built recommendation systems and sentiment analysis engines.  
+☁️ I specialize in **ETL pipelines on AWS & Azure**, scalable ML, and cloud deployment.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack & Tools
 
-| Domain / Domaine     | Tools / Outils                                                                 |
-|----------------------|----------------------------------------------------------------------------------|
-| Programming           | `Python`, `SQL`, `R`, `JavaScript`, `Bash`                                      |
-| Data Science & AI     | `Scikit-learn`, `TensorFlow`, `PyTorch`, `OpenAI`, `Hugging Face`, `Mistral`    |
-| NLP & GenAI           | `SpaCy`, `TextBlob`, `LangChain`, `Transformers`, `LLMs`, `RAG`, `Chatbot`      |
-| Data Viz & BI         | `Tableau`, `Power BI`, `Looker`, `Grafana`, `Matplotlib`, `Seaborn`             |
-| Cloud & Big Data      | `AWS`, `Azure`, `Docker`, `Kubernetes`, `Spark`, `Redshift`, `Databricks`       |
-| Databases / BDD       | `PostgreSQL`, `MySQL`, `MongoDB`, `BigQuery`                                    |
-
----
-
-## 💼 Highlight Projects | Projets en vedette
-
-### English
-
-- **AI Food Recommendation System** – Collaborative + Deep Learning model  
-- **Stock Forecasting** – ARIMA & LSTM for stock price prediction  
-- **E-Commerce ETL Pipeline** – Serverless analytics on AWS  
-- **Zomato Review Sentiment Analysis** – NLP pipeline for user feedback  
-- **PDF Chatbot using RAG** – Retrieval-Augmented Generation for document search
-
-### Français
-
-- **Système de recommandation alimentaire** – Modèle hybride avec deep learning  
-- **Prévision des prix boursiers** – Modèles ARIMA & LSTM  
-- **Pipeline ETL e-commerce** – Architecture serverless sur AWS  
-- **Analyse de sentiments des avis Zomato** – Pipeline NLP orienté client  
-- **Chatbot PDF intelligent** – Recherche sémantique avec LLM et RAG
+| Area                | Tools & Frameworks                                                                 |
+|---------------------|-------------------------------------------------------------------------------------|
+| Programming         | `Python`, `SQL`, `R`, `JavaScript`, `Bash`                                        |
+| Data Science & AI   | `Scikit-learn`, `TensorFlow`, `PyTorch`, `OpenAI`, `Hugging Face`, `Mistral`       |
+| NLP & GenAI         | `SpaCy`, `NLTK`, `TextBlob`, `LangChain`, `Transformers`, `LLMs`, `RAG`            |
+| Data Viz & BI       | `Tableau`, `Power BI`, `Looker`, `Grafana`, `Seaborn`, `Matplotlib`                |
+| Cloud & Big Data    | `AWS`, `Azure`, `Docker`, `Kubernetes`, `Spark`, `Glue`, `Redshift`, `Databricks`  |
+| Databases           | `PostgreSQL`, `MySQL`, `MongoDB`, `BigQuery`                                       |
 
 ---
+
+## 📂 Featured Projects
+
+✨ **🧠 AI Food Recommendation Engine**  
+A hybrid model for meal recommendation using collaborative filtering & deep learning.  
+_Tech: TensorFlow, Flask, Docker, AWS EC2_
+
+✨ **📈 Time Series Forecasting for Stock Prices**  
+ARIMA + LSTM-based model to predict future stock prices.  
+_Tech: Python, Pandas, Matplotlib_
+
+✨ **🛒 AWS-Based ETL Pipeline for E-Commerce Analytics**  
+Built a serverless ETL pipeline to analyze customer behavior & optimize inventory.  
+_Tech: AWS Lambda, S3, Glue, Redshift, Quicksight_
+
+✨ **💬 Sentiment Analysis of Zomato Reviews**  
+Natural language processing pipeline with MongoDB and Flask backend.  
+_Tech: NLTK, Scikit-learn, Word Cloud_
+
+✨ **🤖 RAG Chatbot for PDF Q&A**  
+Retrieval-Augmented Generation chatbot for PDF document insights.  
+_Tech: LangChain, OpenAI, Hugging Face_
+
 
 ## 🚀 Lifetime GitHub Achievements (Hyperboosted) 💥
 

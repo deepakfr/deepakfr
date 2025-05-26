@@ -64,20 +64,13 @@ _Tech: LangChain, OpenAI, Hugging Face_
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-1,580,425-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Public_Repos-128-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Private_Projects-372-important?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Coffee_Consumed-42,000☕-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Contributions-1,58,425-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public_Repos-32-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Private_Projects-121-important?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Coffee_Consumed-4201☕-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakfr&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakfr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakfr&theme=radical&hide_border=true" />
-</p>
 
 
 ---

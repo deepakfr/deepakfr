@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone, I'm Deepakraj Dhanaraj 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+AI+Engineer+%7C+Cloud+ETL+Builder;Passionate+about+ML%2C+AI%2C+and+Data+Pipelines;Always+Learning+%F0%9F%93%9A&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+AI+Engineer+%7C+Cloud+ETL+Builder;Passionate+about+ML%2C+AI%2C+and+Data+Pipelines;Always+Learning+%F0%9F%93%9A&center=true&width=800&height=45">
 </p>
 
 <p align="center">

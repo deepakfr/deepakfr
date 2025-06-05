@@ -65,8 +65,8 @@ _Tech: LangChain, OpenAI, Hugging Face_
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-11,425-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Public_Repos-16-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Private_Projects-43-important?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Public_Repos-22-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Private_Projects-12-important?style=for-the-badge&logo=git" />
 </p>
 
 
